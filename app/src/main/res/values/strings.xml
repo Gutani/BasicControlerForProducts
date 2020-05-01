@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Controle De Produtos</string>
+    <string name="confirm">Confirm</string>
+    <string name="enter_the_price">Enter the price</string>
+    <string name="enter_the_product_name">Enter the product name</string>
+    <string name="enter_the_quantity">Enter the quantity</string>
+    <string name="nome">Nome:</string>
+    <string name="preco">Preço:</string>
+    <string name="quantidade">Quantidade:</string>
+</resources>
